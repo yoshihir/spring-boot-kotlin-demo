@@ -10,3 +10,6 @@ https://qiita.com/daisuzz/items/3e0cef338738143314bd
 
 ### レイヤードアーキテクチャのsample
 https://github.com/nrslib/itddd
+
+### ktlint(まだ入れていない)
+https://github.com/pinterest/ktlint
